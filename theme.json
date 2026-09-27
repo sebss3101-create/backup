@@ -1,0 +1,11 @@
+{
+    "id": "onyxs-theme",
+    "name": "Onyxs Theme",
+    "version": "1.0.0",
+    "description": "Dark Fantasy theme for Onyxs Network",
+    "url": "https://store.onyxs.lat",
+    "authors": [
+        "Onyxs Network"
+    ],
+    "azuriom_api": "1.2.0"
+}
